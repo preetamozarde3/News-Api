@@ -2,9 +2,9 @@ Android application of News Feed Using News Api (Powered by News API https://new
 
 Concepts covered:
 
-Navigation drawer widget
-Retrofit API calls
-RecyclerView and CardView
+* Navigation drawer widget
+* Retrofit API calls
+* RecyclerView and CardView
 ____________________________________________________________________________________________________________
 
 Previews
